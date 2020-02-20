@@ -38,8 +38,8 @@ h1, h2, h3 {
 #nav ul{
 	list-style-type: none;
 	text-align:center;
-	font-size: 30px;
-	padding: 30px;
+	font-size: 5px;
+	padding: 5px;
 }	
 
 #nav.selected {
